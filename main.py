@@ -21,4 +21,4 @@ async def givemebadge(interaction: Interaction):
     await interaction.response.send_message("Listo!, espera 24 horas para reclamar la insignia\nPuedes reclamarla aquí: https://discord.com/developers/active-developer")
  
  
-bot.run("MTExMzUyMTY5MDM3NTM2NDY3OQ.GtUtU-.RGiHKzp7QQwYwgaj4KgeUZKuDuz5PFTlq6q1vs")
+bot.run("BOT")
