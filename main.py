@@ -22,3 +22,5 @@ async def givemebadge(interaction: Interaction):
  
  
 bot.run("BOT")
+
+""" pip install discord.py """
